@@ -1,0 +1,46 @@
+.frame{
+	margin-left: 20vw ;
+	margin-top: 4vh;
+}
+.container {
+	display: table;
+}
+.row{
+	display: table-row;
+}
+.pixel{
+	display: table-cell;
+	width: 50px;
+	height: 50px;
+	background-color: white;
+}
+.black{
+	background-color: #35323D;
+}
+.white{
+	background-color: white;
+}
+.cream{
+	background-color: #cac2a4;
+}
+.red{
+	background-color: #A2393B;
+}
+.lightred{
+	background-color: #A74662;
+}
+.skin{
+	background-color: #e9e9d4;
+}
+.beak-4{
+	background-color: #C07861;
+}
+.beak-3{
+	background-color: #C58166;
+}
+.beak-2{
+	background-color: #CF966B;
+}
+.beak-1{
+	background-color: #D4A076;
+}
